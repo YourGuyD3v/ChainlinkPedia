@@ -6,12 +6,13 @@
 Chainlink is the industry-standard Web3 services platform that has enabled trillions of dollars in transaction volume across DeFi, insurance, gaming, NFTs, and other major industries. As the leading decentralized oracle network, Chainlink enables developers to build feature-rich Web3 applications with seamless access to real-world data and off-chain computation across any blockchain and provides global enterprises with a universal gateway to all blockchains.
 </div>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uh9zZ4__abk" frameborder="0" allowfullscreen></iframe>
+
+[![Watch the video](https://img.youtube.com/vi/Uh9zZ4__abk/maxresdefault.jpg)](https://www.youtube.com/watch?v=Uh9zZ4__abk)
 
 ## <div style="display: flex; justify-content: center; margin-top: 300px; margin-bottom: 20px;">
 
 <a href="https://chainlinklabs.com/">
-  <img src="media/Chainlink-Symbol-Blue.svg" alt="Website"  style="vertical-align: middle; width: 40px;"">
+  <img src="media/Chainlink-Symbol-Blue.svg" alt="Website"  style="vertical-align: middle; width: 4px;"">
 </a>
 <a href="https://twitter.com/chainlinklabs">
   <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" style="vertical-align: middle;">
