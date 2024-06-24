@@ -39,3 +39,7 @@
 - #### [Chainlink Launches Transporter, A CCIP-Powered Cross-Chain Bridging App](https://chainlinktoday.com/chainlink-launches-transporter-a-ccip-powered-cross-chain-bridge/)
 - #### [Announcing General Availability for CCIP](https://blog.chain.link/ccip-general-availability/)
 - #### [DTCC Smart NAV Pilot Leverages Chainlink CCIP To Deliver Mutual Fund Data Onchain](https://chainlinktoday.com/dtcc-smart-nav-pilot-leverages-chainlink-ccip-to-deliver-mutual-fund-data-onchain/)
+- #### [what is a zero knowledge proof zkp](https://blog.chain.link/what-is-a-zero-knowledge-proof-zkp/)
+- #### [Go Chainlink!](https://medium.com/chainlink/go-chainlink-37cb077fae31)
+- #### [Viewing Chainlink Transactions on the Ropsten Testnet](https://medium.com/chainlink/viewing-chainlink-transactions-on-the-ropsten-testnet-d59d7173e510)
+- #### [Driving Demand for Enterprise Smart Contracts Using the Trusted Computation Framework and Attested Oracles via Chainlink](https://blog.chain.link/driving-demand-for-enterprise-smart-contracts-using-the-trusted-computation-framework-and-attested-oracles-via-chainlink/)

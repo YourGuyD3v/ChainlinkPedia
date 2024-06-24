@@ -7,6 +7,8 @@ Chainlink is the industry-standard Web3 services platform that has enabled trill
 </div>
 <br>
 
+## The Chainlink Origin Story, Click here &#8595;&darr;
+
 [![Watch the video](https://img.youtube.com/vi/Uh9zZ4__abk/maxresdefault.jpg)](https://www.youtube.com/watch?v=Uh9zZ4__abk)
 
 ## <div style="display: flex; justify-content: center; margin-top: 300px; margin-bottom: 20px;">

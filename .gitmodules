@@ -1,0 +1,21 @@
+[submodule "developments/datafeeds-example/lib/forge-std"]
+	path = developments/datafeeds-example/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "developments/ccip-example/lib/forge-std"]
+	path = developments/ccip-example/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "developments/automation-example/lib/forge-std"]
+	path = developments/automation-example/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "developments/datastreams-example/lib/forge-std"]
+	path = developments/datastreams-example/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "developments/functions-example/lib/forge-std"]
+	path = developments/functions-example/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "developments/lib/forge-std"]
+	path = developments/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "developments/lib/chainlink-brownie-contracts"]
+	path = developments/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
