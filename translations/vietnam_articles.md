@@ -1,0 +1,1 @@
+- #### [CCIP chính thức khởi chạy trên mainnet](https://chainlinkvietnam.substack.com/p/ccip-mainnet)
