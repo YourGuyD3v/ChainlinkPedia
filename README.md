@@ -15,6 +15,7 @@ Chainlink is the industry-standard Web3 services platform that has enabled trill
 
 - [Developments](https://github.com/YourGuyD3v/ChainlinkPedia/tree/main/developments)
 
+  - [How to fund Link tokens](https://github.com/YourGuyD3v/ChainlinkPedia/tree/main/developments/how-to-fund-link-tokens)
   - [Data feeds](https://github.com/YourGuyD3v/ChainlinkPedia/tree/main/developments/src/datafeeds)
   - [Functions](https://github.com/YourGuyD3v/ChainlinkPedia/tree/main/developments/src/functions)
   - [CCIP](https://github.com/YourGuyD3v/ChainlinkPedia/tree/main/developments/src/VRF)
