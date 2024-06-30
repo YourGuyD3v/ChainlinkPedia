@@ -1,0 +1,2 @@
+- #### [Co to jest Chainlink i jak działa?](https://medium.com/chainlink-community/co-to-jest-chainlink-i-jak-dzia%C5%82a-3ca6add66347)
+- #### [Co to jest blockchain?](https://medium.com/chainlink-community/co-to-jest-blockchain-2d1ede90bbe0)

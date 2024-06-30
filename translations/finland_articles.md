@@ -1,0 +1,7 @@
+- #### [CCIP:n virallinen julkaisu on nyt pääverkossa](https://medium.com/chainlink-community/ccip-n-virallinen-julkaisu-on-nyt-p%C3%A4%C3%A4verkossa-2706277fda7f)
+- #### [Esittelyssä Chainlink Funktiot: Yhdistä maailman kaikki ohjelmointirajapinnat Web3:een](https://medium.com/chainlink-community/esittelyss%C3%A4-chainlink-funktiot-yhdist%C3%A4-maailman-kaikki-ohjelmointirajapinnat-web3-een-342b2a051484)
+- #### [Chainlink Ekonomia 2.0 staking-protokolla ja v0.1 staking-julkaisu](https://medium.com/chainlink-community/chainlink-ekonomia-2-0-panostusprotokolla-ja-v0-1-panostusjulkaisu-c442ea0d37d3)
+- #### [CCIP — tie poikkiketjullisiin älysopimuksiin](https://medium.com/chainlink-community/ccip-tie-poikkiketjullisiin-%C3%A4lysopimuksiin-aa02b8984e71)
+- #### [Lohkoketjun Oraakkeliongelma](https://medium.com/chainlink-community/lohkoketjun-oraakkeliongelma-0f6f56d2ccfe)
+- #### [Mikä on älykäs sopimus?](https://medium.com/chainlink-community/mik%C3%A4-on-%C3%A4lyk%C3%A4s-sopimus-de1c65af8d5e)
+- #### [Mitä lohkoketjuteknologia on?](https://medium.com/chainlink-community/mit%C3%A4-lohkoketjuteknologia-on-9b4ed1c7787a)

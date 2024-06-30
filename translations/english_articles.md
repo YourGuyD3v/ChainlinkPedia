@@ -43,3 +43,4 @@
 - #### [Go Chainlink!](https://medium.com/chainlink/go-chainlink-37cb077fae31)
 - #### [Viewing Chainlink Transactions on the Ropsten Testnet](https://medium.com/chainlink/viewing-chainlink-transactions-on-the-ropsten-testnet-d59d7173e510)
 - #### [Driving Demand for Enterprise Smart Contracts Using the Trusted Computation Framework and Attested Oracles via Chainlink](https://blog.chain.link/driving-demand-for-enterprise-smart-contracts-using-the-trusted-computation-framework-and-attested-oracles-via-chainlink/)
+- #### [The Golden Trio: How Bitcoin, Ethereum, and Chainlink Are Revolutionizing Decentralized Technology](https://medium.com/@cardenasjuan1213/the-golden-trio-how-bitcoin-ethereum-and-chainlink-are-revolutionizing-decentralized-technology-8b6cc39cff43)
