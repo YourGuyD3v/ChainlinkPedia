@@ -28,6 +28,30 @@ Chainlink is the industry-standard Web3 services platform that has enabled trill
   - [Whitepaper-V1](https://github.com/YourGuyD3v/ChainlinkPedia/blob/main/whitepaper/whitepaper-v1.pdf)
   - [Whitepaper-V2](https://github.com/YourGuyD3v/ChainlinkPedia/blob/main/whitepaper/whitepaper-v2.pdf)
 
+- [Article Translations](https://github.com/YourGuyD3v/ChainlinkPedia/tree/main/translations)
+
+  - [English](https://github.com/YourGuyD3v/ChainlinkPedia/blob/main/translations/english_articles.md)
+  - [Chinese](https://github.com/YourGuyD3v/ChainlinkPedia/blob/main/translations/chinese_articles.md)
+  - [filipino](https://github.com/YourGuyD3v/ChainlinkPedia/blob/main/translations/filipino_articles.md)
+  - [finland](https://github.com/YourGuyD3v/ChainlinkPedia/blob/main/translations/finland_articles.md)
+  - [french](https://github.com/YourGuyD3v/ChainlinkPedia/blob/main/translations/french_articles.md)
+  - [german](https://github.com/YourGuyD3v/ChainlinkPedia/blob/main/translations/german_articles.md)
+  - [indonesian](https://github.com/YourGuyD3v/ChainlinkPedia/blob/main/translations/indonesian_articles.md)
+  - [italian](https://github.com/YourGuyD3v/ChainlinkPedia/blob/main/translations/italian_articles.md)
+  - [japanese](https://github.com/YourGuyD3v/ChainlinkPedia/blob/main/translations/japanese_articles.md)
+  - [korean](https://github.com/YourGuyD3v/ChainlinkPedia/blob/main/translations/korean_articles.md)
+  - [polish](https://github.com/YourGuyD3v/ChainlinkPedia/blob/main/translations/polish_articles.md)
+  - [portuguese](https://github.com/YourGuyD3v/ChainlinkPedia/blob/main/translations/portuguese_articles.md)
+  - [russian](https://github.com/YourGuyD3v/ChainlinkPedia/blob/main/translations/russian_articles.md)
+  - [spanish](https://github.com/YourGuyD3v/ChainlinkPedia/blob/main/translations/spanish_articles.md)
+  - [thai](https://github.com/YourGuyD3v/ChainlinkPedia/blob/main/translations/thai_articles.md)
+  - [turkish](https://github.com/YourGuyD3v/ChainlinkPedia/blob/main/translations/turkish_articles.md)
+  - [vietnam](https://github.com/YourGuyD3v/ChainlinkPedia/blob/main/translations/vietnam_articles.md)
+  - [dutch](https://github.com/YourGuyD3v/ChainlinkPedia/blob/main/translations/dutch_articles.md)
+  - [arabic](https://github.com/YourGuyD3v/ChainlinkPedia/blob/main/translations/arabic_articles.md)
+
+- [Blockchain Smart Contracts Series](https://github.com/YourGuyD3v/ChainlinkPedia/tree/main/blockchain-smart-contracts-series)
+
 <br>
 <br>
 
