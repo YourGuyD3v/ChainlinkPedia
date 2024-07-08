@@ -19,3 +19,6 @@
 [submodule "developments/lib/chainlink-brownie-contracts"]
 	path = developments/lib/chainlink-brownie-contracts
 	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "developments/lib/openzeppelin-contracts"]
+	path = developments/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts

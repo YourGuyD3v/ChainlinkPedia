@@ -9,7 +9,7 @@ remappings = [
 ]
 fs_permissions = [{ access = "read", path = "./" }]
 evm_version = "cancun"
-solc = "0.8.25"
+auto_detect_solc = true
 
 [etherscan]
 polygon = { key = "${POLYGONSCAN_API_KEY}" }
