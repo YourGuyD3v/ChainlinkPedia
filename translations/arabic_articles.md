@@ -1,1 +1,1 @@
-- #### []()
+- #### [ccip bootcamp 2024](https://www.linkedin.com/posts/kareem-kassab_ccip-bootcamp-english-luma-activity-7217919428586315776-pRTc?utm_source=share&utm_medium=member_desktop)
