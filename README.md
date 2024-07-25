@@ -15,6 +15,8 @@ Chainlink is the industry-standard Web3 services platform that has enabled trill
 
 ## Pedia
 
+<a href="https://github.com/Cyfrin/foundry-full-course-cu/discussions/5" style="color: #FF0000;">**THE .ENV PLEDGE**</a> _(must click)_
+
 - [Developments](https://github.com/YourGuyD3v/ChainlinkPedia/tree/main/developments)
 
   - [How to fund Link tokens](https://github.com/YourGuyD3v/ChainlinkPedia/tree/main/developments/how-to-fund-link-tokens)
